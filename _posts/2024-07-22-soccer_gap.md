@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Soccer Match Prediction - GAP"
+---
+
 ```python
 !jupyter nbconvert --to markdown "/content/drive/MyDrive/DAT/5차 과제"
 ```
